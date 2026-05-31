@@ -20,7 +20,7 @@
 I'm a **third-year Applied Computer Science student** at AGH University of Science and Technology in Kraków, passionate about aviation, space exploration, cybersecurity, and building software that matters.
 
 - **Founder & solo developer** of an aviation software startup — currently building a real-time airspace management and NOTAM conflict detection platform (100% written by me)
-- **CTO & Cybersecurity Specialist** at [SentiGuard Systems](https://github.com/Skylink-drone-detection) — drone detection system using BLE/Remote ID triangulation, 1st place @ Hacknarök AIoT category
+- **CTO & Cybersecurity Specialist** at [SentiGuard Systems](https://github.com/Skylink-drone-detection) — drone detection system, 1st place @ Hacknarök AIoT category
 - **Vice-President & Software Team Lead** at [AGH SkyLink](https://github.com/AGH-Skylink) — leading Mission Control Panel (C++/Python) and other projects
 - **Software Developer Intern** at IBM
 - Rector's Scholarship recipient · Cisco Ethical Hacker · CyberOps Associate · ECSC certified
